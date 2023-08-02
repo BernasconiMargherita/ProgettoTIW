@@ -7,4 +7,11 @@
  * WSDLJNKAuthenticatorAssertionResponse
  * ServiceWorkerRegistration
  * ServiceWorkerRegistration
+ *wIDBObjectStoreencodeURIdleDeadline
+ 
+ 
+ dwdswAbortSignal
+ 
+ 
+ 
  * 
