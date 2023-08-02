@@ -10,6 +10,9 @@
  *wIDBObjectStoreencodeURIdleDeadline
  
  
+ 
+ 
+ hgikAudioBuffer
  dwdswAbortSignal
  
  
